@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3dc111e-1d76-4306-afef-b84e2d042e3d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LSTM.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Project.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
